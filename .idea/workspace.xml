@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="869104a0-2723-4530-89fa-2ecde72db6a3" name="Default Changelist" comment="">
+    <list default="true" id="869104a0-2723-4530-89fa-2ecde72db6a3" name="Default Changelist" comment="1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,8 +77,16 @@
       <option name="presentableId" value="Default" />
       <updated>1617849900541</updated>
       <workItem from="1617849901637" duration="12945000" />
-      <workItem from="1617933258770" duration="5581000" />
+      <workItem from="1617933258770" duration="7624000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1617959276367</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617959276367</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,7 +106,15 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="432" y="237" key="Vcs.Push.Dialog.v2" timestamp="1617959285262">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="237" key="Vcs.Push.Dialog.v2/0.0.1680.1010/1680.0.1680.1010@0.0.1680.1010" timestamp="1617959285262" />
     <state x="2222" y="237" width="596" height="536" key="find.popup" timestamp="1617868562940">
       <screen x="1680" y="0" width="1680" height="1010" />
     </state>
